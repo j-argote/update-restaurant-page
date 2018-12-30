@@ -1,0 +1,27 @@
+/* 
+white smoke: #F9F7F7
+quick silver: #A8A4A3
+venetian red: #C40707
+dark slate gray: #37515F
+black: black
+ */
+
+.bgWhiteSmoke{
+    background-color: #F9F7F7;
+}
+
+.bgQuickSilver{
+    background-color: #A8A4A3;
+}
+
+.bgVenetianRed{
+    background-color: #C40707;
+}
+
+.bgDarkSlateGray{
+    background-color: #37515F;
+}
+
+.bgBlack{
+    background-color: black;
+}

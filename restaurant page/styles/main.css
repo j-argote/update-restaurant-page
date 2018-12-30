@@ -1,0 +1,13 @@
+.section{
+    height: 500px;
+}
+
+.leftImage, .rightImage{
+    height: auto;
+    width: 600px;
+}
+
+.flexCol{
+    display: flex;
+    flex-direction: column;
+}
